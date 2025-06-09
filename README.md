@@ -1,7 +1,3 @@
-Here’s a crisp, dyslexia-friendly README for mem0/crewai_load_pdf.py:
-
-⸻
-
 📄 crewai_load_pdf.py
 
 This script simplifies loading PDF content into Mem0, making it available for CrewAI agents to recall and utilise.
@@ -81,6 +77,3 @@ agent = Agent(
 	•	Use async loading for large files
 	•	Include logging and retry logic for robustness
 
-⸻
-
-Let me know if you’d like to include examples of memory queries by the agents or integrate this as a tool within CrewAI flows.
